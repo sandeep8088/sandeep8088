@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeep
 - 👀 I’m interested in Cricket
-- 🌱 I’m currently  learning Data Science
+- 🌱 I’m currently looking for data scientist roles
 - 📫 How to reach me kommasandeepreddy@gmail.com
 - 😄 Pronouns: ... he/him 
 - ⚡ Fun fact: ... I did bungee jumping
